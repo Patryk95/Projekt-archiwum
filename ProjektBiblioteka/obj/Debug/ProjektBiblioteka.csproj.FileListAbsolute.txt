@@ -1,0 +1,15 @@
+C:\Users\Adrianek\Desktop\klos\ProjektBiblioteka\ProjektBiblioteka\bin\Debug\ProjektBiblioteka.exe.config
+C:\Users\Adrianek\Desktop\klos\ProjektBiblioteka\ProjektBiblioteka\bin\Debug\ProjektBiblioteka.exe
+C:\Users\Adrianek\Desktop\klos\ProjektBiblioteka\ProjektBiblioteka\bin\Debug\ProjektBiblioteka.pdb
+C:\Users\Adrianek\Desktop\klos\ProjektBiblioteka\ProjektBiblioteka\obj\Debug\ProjektBiblioteka.csprojResolveAssemblyReference.cache
+C:\Users\Adrianek\Desktop\klos\ProjektBiblioteka\ProjektBiblioteka\obj\Debug\MainWindow.baml
+C:\Users\Adrianek\Desktop\klos\ProjektBiblioteka\ProjektBiblioteka\obj\Debug\MainWindow.g.cs
+C:\Users\Adrianek\Desktop\klos\ProjektBiblioteka\ProjektBiblioteka\obj\Debug\App.g.cs
+C:\Users\Adrianek\Desktop\klos\ProjektBiblioteka\ProjektBiblioteka\obj\Debug\ProjektBiblioteka_MarkupCompile.cache
+C:\Users\Adrianek\Desktop\klos\ProjektBiblioteka\ProjektBiblioteka\obj\Debug\ProjektBiblioteka.g.resources
+C:\Users\Adrianek\Desktop\klos\ProjektBiblioteka\ProjektBiblioteka\obj\Debug\ProjektBiblioteka.Properties.Resources.resources
+C:\Users\Adrianek\Desktop\klos\ProjektBiblioteka\ProjektBiblioteka\obj\Debug\ProjektBiblioteka.csproj.GenerateResource.Cache
+C:\Users\Adrianek\Desktop\klos\ProjektBiblioteka\ProjektBiblioteka\obj\Debug\ProjektBiblioteka.exe
+C:\Users\Adrianek\Desktop\klos\ProjektBiblioteka\ProjektBiblioteka\obj\Debug\ProjektBiblioteka.pdb
+C:\Users\Adrianek\Desktop\klos\ProjektBiblioteka\ProjektBiblioteka\obj\Debug\OknoDodawania.baml
+C:\Users\Adrianek\Desktop\klos\ProjektBiblioteka\ProjektBiblioteka\obj\Debug\OknoDodawania.g.cs
